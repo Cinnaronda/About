@@ -1,3 +1,7 @@
 remote_theme: mmistakes/minimal-mistakes
 title: About
 include: ["_pages"]
+
+author:
+ name: "Sharonda Daniels"
+ avatar: "/assets/Image1.jpg"
