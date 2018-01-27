@@ -1,6 +1,7 @@
 ---
 layot: single
 permalink: /
+author_profile: true
 ---
 
 # About Sharonda
